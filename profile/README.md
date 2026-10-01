@@ -4,7 +4,7 @@
 
 # Kobesoft Labs
 
-[Website](https://kobesoft-labs.github.io)
+<sub>[▶ PLAY!](https://kobesoft-labs.github.io)</sub>
 
 </div>
 
