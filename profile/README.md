@@ -41,5 +41,5 @@ Issue や Pull Request は歓迎です。
 ご質問・ご相談は [dev@kobesoft.co.jp](mailto:dev@kobesoft.co.jp) まで。
 
 <div align="center">
-<sub>© Kobesoft Co., Ltd.</sub>
+<sub>© KOBESOFT, Inc.</sub>
 </div>
